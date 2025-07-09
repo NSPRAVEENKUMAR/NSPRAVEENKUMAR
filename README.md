@@ -47,8 +47,9 @@
 - 🔍 [**Fake Currency Detection**](#)  
   `CNN • Python` – Detects fake currency based on watermark and microprint accuracy (89% precision)
 
-- 🌐 [**Internship Portal Website**](#https://nspraveenkumar.github.io/internship-portal/)  
-  `HTML • CSS • JS` – Designed to assist users of all backgrounds with career roadmaps
+-🌐 [**Internship Portal Website**](https://nspraveenkumar.github.io/internship-portal/)  
+`HTML • CSS • JS` – Designed to assist users of all backgrounds with career roadmaps.
+
 
 - 🚦 [**AI-powered Traffic Management System**](#)  
   `YOLO • OpenCV • DRL` – Smart traffic control with automatic violation detection
